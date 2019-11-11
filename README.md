@@ -4,7 +4,7 @@
 
 分組專題基本樣板(C++)
 
-## Structure
+## Structure 更改
 ```
 .
 ├── ...
