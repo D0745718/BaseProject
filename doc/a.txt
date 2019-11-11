@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ��������
 ??�O?
 aaaaaaaaaaaaaa
 ++++++++++++++
 bbbbbbbbbbbbbb
+=======
+hello travcasddasdas
+>>>>>>> master
